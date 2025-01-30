@@ -7,15 +7,19 @@
 ---
 
 ## 🏆 About Me  
-
 🚀 Passionate **Software Engineer** & **Master's Student at CSULB** with expertise in **Web Development**, **Machine Learning**, and **Cloud Computing**. I love building scalable applications, solving real-world problems, and continuously **learning new technologies**.  
 
-🔍 **Currently Exploring:**  
-- Advanced **Machine Learning & AI**  
-- **Cloud Technologies** (AWS, GCP)  
-- **High-Performance Web Development**  
+🔍 **Currently Exploring:** Advanced **Machine Learning & AI**, **Cloud Technologies** (AWS, GCP), **High-Performance Web Development**  
+
+🌐 **Portfolio:**  
+<p align="center">
+  <a href="https://brijesh-rana.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
+</p>
 
 ---
+
 ## 🛠️ Tech Stack  
 
 **Languages & Frameworks**  
@@ -76,9 +80,6 @@ A platform for students to share and collaborate on study materials in an intera
 ---
 
 ## 🎯 Fun Fact  
-
 💡 "Every bug is just a feature waiting to be documented!" 😄  
-
----
 
 ⭐ **If you like my work, consider giving my repositories a star!** ⭐  
