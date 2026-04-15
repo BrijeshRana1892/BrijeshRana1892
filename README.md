@@ -249,7 +249,7 @@ RESULT    Physics-based rendering
 ## 🛤️ Experience
 
 ```
-  2025 — PRESENT    Technical Staff
+  2025 — PRESENT    Software Developer
                     Associated Students Inc., CSULB
                     React · JavaScript · Web Development
 
