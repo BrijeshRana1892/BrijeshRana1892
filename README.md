@@ -1,24 +1,17 @@
 <div align="center">
 
-<!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00d4ff,100:6C63FF&height=220&section=header&text=BRIJESH%20RANA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Agentic%20Systems&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" alt="header" />
-
-<!-- Single-line Typing SVG — cycles one line at a time, no overflow -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=520&height=40&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Full+Stack+%2B+AI%2FML+Engineer+%E2%9A%A1;MS+Computer+Science+%40+CSULB+%F0%9F%8E%93;Open+to+Summer+2026+Internships+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Header - using capsule-render thin slice + reliable heading -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,100:00d4ff&height=150&section=header&text=BRIJESH%20RANA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="header" />
 
 <br>
 
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/MS_CS-CSULB_'26-6C63FF?style=for-the-badge&labelColor=0e0e1a" alt="education" />
-<img src="https://img.shields.io/badge/Status-Open_to_Internships-10b981?style=for-the-badge&labelColor=0e0e1a" alt="status" />
-<img src="https://img.shields.io/badge/Focus-Agentic_AI-00d4ff?style=for-the-badge&labelColor=0e0e1a" alt="focus" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=software+engineer+%7C+ai%2Fml+developer+%7C+agentic+systems;building+autonomous+agents+%7C+shipping+production+code;full+stack+%7C+deep+learning+%7C+real-time+systems" alt="Typing SVG" /></a>
 
-<br><br>
+<br>
 
-```
-Software Engineer who builds intelligent, production-grade systems
-from autonomous AI voice agents to real-time collaboration platforms
-```
+<code>📍 Long Beach, CA</code>&nbsp;&nbsp;
+<code>🎓 MS CS @ CSULB '26</code>&nbsp;&nbsp;
+<code>🟢 Open to Summer 2026 Internships</code>
 
 </div>
 
@@ -26,110 +19,202 @@ from autonomous AI voice agents to real-time collaboration platforms
 
 ## 🧠 About Me
 
-```python
-class BrijeshRana:
+```js
+// brijesh.config.ts — last updated: today
 
-    def __init__(self):
-        self.role       = "Software Engineer & AI/ML Developer"
-        self.education  = "MS Computer Science @ CSULB (Dec 2026)"
-        self.location   = "Long Beach, CA"
-        self.status     = "Open to Summer 2026 Internships"
+const brijesh = {
+  pronouns: "he" | "him",
+  code:     ["Python", "TypeScript", "JavaScript", "C++"],
+  
+  focus: {
+    current:  "Agentic AI systems & multi-agent orchestration",
+    building: "Cinematic 3D portfolio with Three.js + Next.js",
+    learning: "Advanced transformers, RL, multimodal pipelines",
+  },
 
-        self.stack = {
-            "languages":  ["Python", "TypeScript", "JavaScript", "C++"],
-            "frontend":   ["React", "Next.js", "Three.js", "Tailwind"],
-            "backend":    ["FastAPI", "Node.js", "Express", "WebSockets"],
-            "ai_ml":      ["PyTorch", "LangChain", "RAG", "Agentic AI"],
-            "databases":  ["PostgreSQL", "MongoDB", "Redis", "Pinecone"],
-            "cloud":      ["AWS", "Docker", "Vercel", "GitHub Actions"],
-        }
+  technologies: {
+    ai:       ["PyTorch", "LangChain", "RAG", "OpenAI API", "Agentic AI"],
+    frontend: ["React", "Next.js", "Three.js", "Tailwind", "Framer Motion"],
+    backend:  ["FastAPI", "Node.js", "Express", "WebSockets", "GraphQL"],
+    data:     ["PostgreSQL", "MongoDB", "Redis", "Pinecone"],
+    cloud:    ["AWS", "Docker", "Vercel", "GitHub Actions"],
+  },
 
-    def current_focus(self):
-        return [
-            "Agentic AI systems & multi-agent orchestration",
-            "Real-time collaborative dev tools",
-            "ML-powered analytics pipelines",
-        ]
+  architecture: ["microservices", "event-driven", "serverless", "MVC"],
+  
+  funFact: "I debug with console.log and I'm not ashamed",
+};
 ```
 
 ---
 
-## ⚡ Tech Arsenal
-
 <div align="center">
 
-**`LANGUAGES`**
+## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp&theme=dark" alt="languages" />
+<br>
 
-**`FRONTEND`**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css&theme=dark" alt="frontend" />
-
-**`BACKEND & DATA`**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,mongodb,redis&theme=dark" alt="backend" />
-
-**`AI / ML & CLOUD`**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,vercel,githubactions&theme=dark" alt="ai-cloud" />
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+<br><sub><b>Three.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br><sub><b>PyTorch</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br><sub><b>Express</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br><sub><b>AWS</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br><sub><b>Vercel</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br><sub><b>Figma</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br><sub><b>TensorFlow</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Things I've Built
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 AI Voice Sales Agent
-> Autonomous agentic voice system for real-time sales
+**🤖 AI Voice Sales Agent**
 
-- Built with **LLM APIs + WebRTC** for real-time audio
-- Autonomous multi-turn conversation management
-- **↑ 40% simulation accuracy** over baseline
+```
+TYPE      Agentic AI System
+STACK     Python · WebRTC · FastAPI · LLM APIs
+RESULT    ↑ 40% simulation accuracy
+```
 
-`Python` `WebRTC` `FastAPI` `Agentic AI`
+> Autonomous voice agent that conducts real-time
+> multi-turn sales conversations, handles objections,
+> and adapts strategy based on conversational context.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 👨‍💻 Codetique
-> Real-time collaborative pair programming
+**👨‍💻 Codetique**
 
-- Sub-50ms code sync via **WebSockets**
-- Monaco Editor with multi-cursor support
-- Live execution sandbox
+```
+TYPE      Real-time Collaboration
+STACK     React · WebSockets · Node.js · Monaco
+RESULT    < 50ms sync latency
+```
 
-`React` `WebSockets` `Node.js` `Monaco`
+> Pair programming platform with real-time code
+> sync, multi-cursor editing, and a live execution
+> sandbox for remote developer collaboration.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📊 Campus AI Dashboard
-> ML-powered campus resource optimization
+**📊 Campus AI Dashboard**
 
-- Full pipeline: ingestion → inference → viz
-- Predictive models for utilization
-- Actionable admin insights
+```
+TYPE      ML Analytics Platform
+STACK     React · Python · scikit-learn
+RESULT    ML-powered predictive insights
+```
 
-`React` `Python` `scikit-learn` `Data Viz`
+> Intelligent dashboard using machine learning to
+> predict and optimize campus resource utilization
+> with actionable admin insights.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📖 Digital Flipbook Platform
-> Interactive publishing with page-turn physics
+**📖 Digital Flipbook Platform**
 
-- Canvas API for realistic rendering
-- Bookmark persistence + responsive layouts
-- Reader engagement analytics
+```
+TYPE      Interactive Publishing
+STACK     React · Canvas API · Node.js
+RESULT    Physics-based rendering
+```
 
-`React` `Canvas API` `Node.js`
+> Publishing platform that transforms static content
+> into interactive flipbooks with realistic page-turn
+> animations and engagement analytics.
 
 </td>
 </tr>
@@ -137,57 +222,46 @@ class BrijeshRana:
 
 ---
 
-## 📊 Stats
-
 <div align="center">
 
-<!-- GitHub Trophies — these render reliably -->
-<img src="https://github-profile-trophy.vercel.app/?username=BrijeshRana1892&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="trophies" />
+## 📊 Stats
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrijeshRana1892&theme=tokyonight" width="95%" alt="contribution graph" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrijeshRana1892&theme=tokyonight" width="32%" alt="repos language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrijeshRana1892&theme=tokyonight" width="32%" alt="commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrijeshRana1892&theme=tokyonight" width="32%" alt="stats" />
 
 <br><br>
 
-<!-- Stats + Languages side by side -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BrijeshRana1892&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=00d4ff&text_color=f0f0f5&ring_color=6C63FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BrijeshRana1892&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BrijeshRana1892&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=00d4ff&text_color=f0f0f5&ring_color=6C63FF" alt="GitHub Stats" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshRana1892&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=f0f0f5&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshRana1892&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshRana1892&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=f0f0f5&langs_count=8" alt="Top Languages" />
-</picture>
-
-<br><br>
-
-<!-- Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BrijeshRana1892&theme=tokyonight&hide_border=true&background=00000000&stroke=6C63FF&ring=6C63FF&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=6C63FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=BrijeshRana1892&theme=default&hide_border=true&background=00000000" />
-  <img src="https://streak-stats.demolab.com?user=BrijeshRana1892&theme=tokyonight&hide_border=true&background=00000000&stroke=6C63FF&ring=6C63FF&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=6C63FF" alt="GitHub Streak" />
-</picture>
-
-<br><br>
-
-<!-- Snake Contribution Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrijeshRana1892/BrijeshRana1892/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrijeshRana1892/BrijeshRana1892/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/BrijeshRana1892/BrijeshRana1892/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=BrijeshRana1892&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=6C63FF" alt="streak" />
 
 </div>
 
 ---
 
-## 🛤️ Journey
+## 🛤️ Experience
 
 ```
-2025 – Present    ⟫    Technical Staff @ Associated Students Inc., CSULB
-2024 – Present    ⟫    MS Computer Science @ CSULB (Dec 2026)
-2022 – 2023       ⟫    Software Engineer @ Zluck Solutions
-2021 – 2022       ⟫    SWE Intern @ Crest Data Systems
+  2025 — PRESENT    Technical Staff
+                    Associated Students Inc., CSULB
+                    React · JavaScript · Web Development
+
+  2024 — PRESENT    MS Computer Science
+                    California State University, Long Beach
+                    Focus: AI/ML · Advanced Systems
+
+  2022 — 2023       Software Engineer
+                    Zluck Solutions, India
+                    React · Node.js · MongoDB · REST APIs
+
+  2021 — 2022       Software Engineering Intern
+                    Crest Data Systems, India
+                    Python · AWS · Docker · Git
 ```
 
 ---
@@ -203,25 +277,26 @@ class BrijeshRana:
 
 ---
 
-## 📬 Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://github.com/BrijeshRana1892"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-&nbsp;
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br><br>
-
-**If you're building at the edge of AI and engineering — let's talk.**
+## 📬 Let's Connect
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=BrijeshRana1892&style=for-the-badge&color=6C63FF&labelColor=0e0e1a&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/BrijeshRana1892"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;&nbsp;
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-EMAIL-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br><br>
+
+> *"The best code is the code that ships."*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=BrijeshRana1892&style=for-the-badge&color=6C63FF&labelColor=0e0e1a&label=PROFILE+VIEWS" alt="views" />
 
 </div>
 
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00d4ff,100:6C63FF&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00d4ff&height=80&section=footer" width="100%" alt="footer" />
