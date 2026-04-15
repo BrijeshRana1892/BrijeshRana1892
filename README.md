@@ -1,17 +1,14 @@
 <div align="center">
 
-<!-- Header - using capsule-render thin slice + reliable heading -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,100:00d4ff&height=150&section=header&text=BRIJESH%20RANA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0e0e1a,100:6C63FF&height=150&section=header&text=BRIJESH%20RANA&fontSize=50&fontColor=00d4ff&animation=scaleIn&fontAlignY=50&desc=Software%20Engineer%20%7C%20AI%2FML%20Developer&descSize=14&descColor=6C63FF&descAlignY=72" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=25&lines=%24+initializing+brijesh.system...;%24+loading+modules:+ai+%7C+fullstack+%7C+cloud...;%24+status:+ONLINE+%E2%9C%93+ready+to+build;%24+seeking:+summer_2026_internship.apply()" alt="Typing SVG" /></a>
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=software+engineer+%7C+ai%2Fml+developer+%7C+agentic+systems;building+autonomous+agents+%7C+shipping+production+code;full+stack+%7C+deep+learning+%7C+real-time+systems" alt="Typing SVG" /></a>
-
-<br>
-
-<code>📍 Long Beach, CA</code>&nbsp;&nbsp;
-<code>🎓 MS CS @ CSULB '26</code>&nbsp;&nbsp;
-<code>🟢 Open to Summer 2026 Internships</code>
+<a href="https://github.com/BrijeshRana1892"><img src="https://img.shields.io/badge/📍_Long_Beach,_CA-0e0e1a?style=flat-square" alt="location" /></a>
+<a href="https://github.com/BrijeshRana1892"><img src="https://img.shields.io/badge/🎓_MS_CS_@_CSULB_'26-6C63FF?style=flat-square&logoColor=white" alt="education" /></a>
+<a href="https://github.com/BrijeshRana1892"><img src="https://img.shields.io/badge/🟢_Open_to_Summer_2026_Internships-10b981?style=flat-square" alt="status" /></a>
 
 </div>
 
