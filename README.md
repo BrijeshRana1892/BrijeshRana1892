@@ -240,7 +240,12 @@ RESULT    Physics-based rendering
 
 <img src="https://streak-stats.demolab.com?user=BrijeshRana1892&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=6C63FF" alt="streak" />
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/BrijeshRana1892/BrijeshRana1892/output/github-snake-dark.svg" width="100%" alt="snake animation" />
+
 </div>
+
 
 ---
 
